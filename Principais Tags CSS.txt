@@ -1,0 +1,71 @@
+## 📌 **Principais Propriedades CSS**
+
+### 🎨 **Texto e Fonte**
+
+| Propriedade       | O que faz                                | Exemplo                           |
+| ----------------- | ---------------------------------------- | --------------------------------- |
+| `color`           | Cor do texto                             | `color: red;`                     |
+| `font-size`       | Tamanho da fonte                         | `font-size: 16px;`                |
+| `font-family`     | Tipo de fonte (tipografia)               | `font-family: Arial, sans-serif;` |
+| `font-weight`     | Espessura (peso) da fonte                | `font-weight: bold;`              |
+| `text-align`      | Alinhamento do texto                     | `text-align: center;`             |
+| `text-decoration` | Decoração (sublinhado, etc.)             | `text-decoration: underline;`     |
+| `line-height`     | Espaçamento entre linhas                 | `line-height: 1.5;`               |
+| `letter-spacing`  | Espaçamento entre letras                 | `letter-spacing: 1px;`            |
+| `text-transform`  | Transformação de texto (maiúscula, etc.) | `text-transform: uppercase;`      |
+
+---
+
+### 📦 **Caixa e Layout**
+
+| Propriedade                      | O que faz                                    | Exemplo                    |
+| -------------------------------- | -------------------------------------------- | -------------------------- |
+| `width`                          | Largura                                      | `width: 100px;`            |
+| `height`                         | Altura                                       | `height: 50px;`            |
+| `margin`                         | Espaço externo (fora da caixa)               | `margin: 10px;`            |
+| `padding`                        | Espaço interno (dentro da caixa)             | `padding: 15px;`           |
+| `border`                         | Borda                                        | `border: 1px solid black;` |
+| `display`                        | Tipo de exibição (block, inline, flex, etc.) | `display: flex;`           |
+| `position`                       | Posição no layout (relative, absolute, etc.) | `position: absolute;`      |
+| `top`, `right`, `bottom`, `left` | Posição em relação ao contêiner pai          | `top: 10px;`               |
+| `z-index`                        | Ordem na pilha de camadas (sobreposição)     | `z-index: 1;`              |
+
+---
+
+### 🎨 **Estilo Visual**
+
+| Propriedade        | O que faz           | Exemplo                             |
+| ------------------ | ------------------- | ----------------------------------- |
+| `background-color` | Cor de fundo        | `background-color: yellow;`         |
+| `background-image` | Imagem de fundo     | `background-image: url("img.jpg");` |
+| `opacity`          | Transparência       | `opacity: 0.5;`                     |
+| `box-shadow`       | Sombra da caixa     | `box-shadow: 2px 2px 5px gray;`     |
+| `border-radius`    | Cantos arredondados | `border-radius: 10px;`              |
+
+---
+
+### 🧭 **Flexbox (alinhamento avançado)**
+
+| Propriedade       | O que faz                  | Exemplo                    |
+| ----------------- | -------------------------- | -------------------------- |
+| `display: flex`   | Ativa o flexbox            | —                          |
+| `justify-content` | Alinhamento horizontal     | `justify-content: center;` |
+| `align-items`     | Alinhamento vertical       | `align-items: center;`     |
+| `flex-direction`  | Direção dos itens          | `flex-direction: row;`     |
+| `gap`             | Espaçamento entre os itens | `gap: 10px;`               |
+
+---
+
+### 🌀 **Outros úteis**
+
+| Propriedade     | O que faz                           | Exemplo                 |
+| --------------- | ----------------------------------- | ----------------------- |
+| `overflow`      | O que fazer com conteúdo que “vaza” | `overflow: hidden;`     |
+| `cursor`        | Tipo de cursor                      | `cursor: pointer;`      |
+| `transition`    | Animação suave                      | `transition: all 0.3s;` |
+| `visibility`    | Visibilidade (mostrar/esconder)     | `visibility: hidden;`   |
+| `display: none` | Esconde o elemento                  | —                       |
+
+---
+
+Se quiser, posso te enviar isso em um **PDF ou imagem** para facilitar ainda mais o acesso rápido. Quer?

@@ -1,0 +1,75 @@
+/* ===========================
+   TEXTO E FONTE
+=========================== */
+body {
+
+color: red; /* Cor do texto */
+font-size: 16px; /* Tamanho da fonte */
+font-family: Arial, sans-serif; /* Tipo de fonte */
+font-weight: bold; /* Espessura da fonte */
+text-align: center; /* Alinhamento do texto */
+text-decoration: underline; /* Decoração do texto */
+line-height: 1.5; /* Espaçamento entre linhas */
+letter-spacing: 1px; /* Espaçamento entre letras */
+text-transform: uppercase; /* Transformação de texto */
+}
+
+
+/* ===========================
+   CAIXA E LAYOUT
+=========================== */
+
+body {
+
+width: 100px; /* Largura */
+height: 50px; /* Altura */
+margin: 10px; /* Espaço externo */
+padding: 15px; /* Espaço interno */
+border: 1px solid black; /* Borda */
+display: flex; /* Tipo de exibição */
+position: absolute; /* Posição */
+top: 10px; /* Distância do topo */
+right: 10px; /* Direita */
+bottom: 10px; /* Fundo */
+left: 10px; /* Esquerda */
+z-index: 1; /* Ordem de sobreposição */
+}
+
+/* ===========================
+   ESTILO VISUAL
+=========================== */
+
+body {
+
+background-color: yellow; /* Cor de fundo */
+background-image: url("img.jpg"); /* Imagem de fundo */
+opacity: 0.5; /* Transparência */
+box-shadow: 2px 2px 5px gray; /* Sombra */
+border-radius: 10px; /* Bordas arredondadas */
+}
+
+/* ===========================
+   FLEXBOX
+=========================== */
+
+body {
+
+display: flex; /* Ativa flexbox */
+justify-content: center; /* Alinhamento horizontal */
+align-items: center; /* Alinhamento vertical */
+flex-direction: row; /* Direção dos itens */
+gap: 10px; /* Espaço entre itens */
+}
+
+/* ===========================
+   OUTRAS ÚTEIS
+=========================== */
+
+body {
+
+overflow: hidden; /* Esconde conteúdo que vaza */
+cursor: pointer; /* Cursor ao passar o mouse */
+transition: all 0.3s; /* Transição suave */
+visibility: hidden; /* Oculta o elemento */
+display: none; /* Esconde o elemento */
+}
